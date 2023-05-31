@@ -1,0 +1,4 @@
+com\bestbuy\creatmodel\ProductPojo.class
+com\bestbuy\creatmodel\StorePojo.class
+com\bestbuy\utils\PropertyReader.class
+com\bestbuy\utils\TestUtils.class
